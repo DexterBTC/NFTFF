@@ -1,0 +1,27 @@
+{
+  "description": "new hodler",
+  "image": "ipfs://bafybeigaq53sut6wzigcod35mp26vh6sjfpf5ihgbvq4w23qwu55ygb2wi",
+  "name": "Ling Pavo Real",
+  "attributes": [
+    {
+      "trait_type": "Boca",
+      "valor": "Serio"
+    },
+    {
+      "trait_type": "Fondo",
+      "valor": "Avismo"
+    },
+    {
+      "trait_type": "Cabello",
+      "value": "Lacio Blanco"
+    },
+    {
+      "trait_type": "Ojos",
+      "valor": "Cautivadores Rojos"
+    },
+    {
+      "trait_type": "Ropa",
+      "valor": "Estilo Pavo Real"
+    }
+  ]
+}

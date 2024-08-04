@@ -1,0 +1,27 @@
+{
+  "description": "dip",
+  "image": "ipfs://bafybeiflgseejqzjlvcbgd76ckaj6vr7deufbngze7y5hagitu7mh33v5y",
+  "name": "Ling Pavo Real",
+  "attributes": [
+    {
+      "trait_type": "Boca",
+      "valor": "Serio"
+    },
+    {
+      "trait_type": "Fondo",
+      "valor": "Avismo"
+    },
+    {
+      "trait_type": "Cabello",
+      "value": "Lacio Blanco"
+    },
+    {
+      "trait_type": "Ojos",
+      "valor": "Cautivadores Rojos"
+    },
+    {
+      "trait_type": "Ropa",
+      "valor": "Estilo Pavo Real"
+    }
+  ]
+}
